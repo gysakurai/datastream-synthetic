@@ -31,3 +31,5 @@ streamlit run /bin/main.py
 
 ## Using the App
 The app has a simple and intuitive interface. You can select the all parameters that you want to generate, and select the types of drift to be generated for dataset. After making the selections, click the "Generate" button to generate the data. The generated data will be displayed in a table, and you can export it in CSV format by clicking the "Export to CSV" button.
+
+![image](https://user-images.githubusercontent.com/94424626/215924706-d1056ad2-6e35-4547-ac29-3edac668f088.png)
